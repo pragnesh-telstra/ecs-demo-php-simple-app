@@ -17,6 +17,7 @@
             <div class="hero-unit">
                 <h1>Pragnesh Telstra CI/CD Pipeline</h1>
                 <h2>Congratulations! You have added approval now</h2>
+                <h2>And now you have deployment notifications!</h2>
                 <p>Your AWS application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
